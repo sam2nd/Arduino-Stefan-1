@@ -1,0 +1,3 @@
+TX		Green 
+RX 		Yellow
+CH_PD	white
